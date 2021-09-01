@@ -6,3 +6,5 @@
 
 ![](https://www.hetpatel.site/img/wellmaticpic.png)
 
+# Authors
+- Het Patel - [het1613](https://github.com/het1613)
